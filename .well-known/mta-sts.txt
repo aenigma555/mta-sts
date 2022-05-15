@@ -1,0 +1,4 @@
+version: STSv1
+mode: none
+mx: mail.crazygoodiesgalore.co.za
+max_age: 604800
